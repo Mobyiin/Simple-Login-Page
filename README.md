@@ -5,13 +5,18 @@ Perfect for front-end practice and integration in stylish websites.
 
 ## 📑 Table of Contents
 - [Features](#-features)
-- [Built With](#-built-with)
 - [Live Url](#-live-url)
 - [How It Works](#-how-it-works)
 - [Author](#-author)
 
 
 ![Preview](./assets/Login-Page-Preview.png)
+
+---
+
+## 🚀 Live Url
+
+👉[Live Site Url](https://mobyiin.github.io/Login-Page-Component)
 
 ---
 
@@ -25,17 +30,11 @@ Perfect for front-end practice and integration in stylish websites.
 
 ---
 
-## 🖥️ Built With
+## 🛠️ Built With
 
 - HTML5
 - CSS3 (Flexbox, blur effects, gradients)
 - JavaScript (DOM interaction)
-
----
-
-## 🚀 Live Url
-
-👉[Live Site Url](https://mobyiin.github.io/Login-Page-Component)
 
 ---
 
