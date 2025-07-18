@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoginPage</title>
+
+    <link rel="icon" href="icons/Favicon/enter.png">
+    <link rel="stylesheet" href="Style/LoginPage.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="glow-orb-top">
+        </div>
+
+        <div class="glow-orb-bottom">
+        </div>
+
+        <form action="#" class="glass-card">
+            <div class="topic">
+                <h2 class="topic-word">Login Here</h2>
+            </div>
+            <div class="inputs-login">
+                <div class="username">
+                    <label for="info-set" class="info-lable">Username</label>
+                    <input type="email" placeholder="Email Or Phone" class="info-input">
+                </div>
+                <div class="password">
+                    <label for="password-set" class="password-lable">Password</label>
+                    <input type="password" placeholder="Password" class="password-input" id="password">
+                    <img class="Eye" src="icons/eye.svg" alt="Eye" onclick="togglePassword()">
+                    <img class="Eye-slash" src="icons/eye-slash.svg" alt="Eye Slash" onclick="togglePassword()">
+                </div>
+            </div>
+            <div class="login">
+                <button class="login-button">
+                    <span class="login-button-text">
+                        Log In</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+<script src="script.js">
+</script>
+</html>
