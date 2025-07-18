@@ -16,7 +16,7 @@ Perfect for front-end practice and integration in stylish websites.
 
 ## 🚀 Live Url
 
-👉[Live Site Url](https://mobyiin.github.io/Login-Page-Component)
+👉[Live Site Url](https://mobyiin.github.io/Simple-Login-Page)
 
 ---
 
